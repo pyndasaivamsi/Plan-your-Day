@@ -5,9 +5,11 @@ Project is hosted here --> https://pyndasaivamsi.github.io/To-do-list/
 Plan your Day is a place where people can add tasks which they want to do. It has an add, edit and delete options
 
 ## Final view of page looks like:
-![view](https://user-images.githubusercontent.com/97884235/177318543-94d5e11c-e56c-4b1e-a22f-f0b72ccf899f.png)
+![view](https://user-images.githubusercontent.com/97884235/177609008-7901432d-ddee-47f1-8d4f-c96f9e28f570.png)
+
 
 ## After adding a task:
-![task added](https://user-images.githubusercontent.com/97884235/177318590-0658ed8e-9da1-440e-bf39-fa6d7bb68818.png)
+![task added](https://user-images.githubusercontent.com/97884235/177609037-7f260b83-7893-4cff-bc1a-9d9e7dbb7597.png)
+
 
 Next stage of project is to develop this using APIs and then using NodeJS,express,MongoDB
