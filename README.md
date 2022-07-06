@@ -1,8 +1,8 @@
-# My To-Do's (To-Do list)
+# Plan your Day (To-Do list)
 
 Project is hosted here --> https://pyndasaivamsi.github.io/To-do-list/
 
-My To-Do's is a place where people can add tasks which they want to do. It has an add, edit and delete options
+Plan your Day is a place where people can add tasks which they want to do. It has an add, edit and delete options
 
 ## Final view of page looks like:
 ![view](https://user-images.githubusercontent.com/97884235/177318543-94d5e11c-e56c-4b1e-a22f-f0b72ccf899f.png)
