@@ -10,6 +10,3 @@ Plan your Day is a place where people can add tasks which they want to do. It ha
 
 ## After adding a task:
 ![task added](https://user-images.githubusercontent.com/97884235/177609037-7f260b83-7893-4cff-bc1a-9d9e7dbb7597.png)
-
-
-Next stage of project is to develop this using APIs and then using NodeJS,express,MongoDB
