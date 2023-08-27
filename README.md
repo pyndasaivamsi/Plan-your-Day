@@ -2,7 +2,7 @@
 
 Project is hosted here --> https://pyndasaivamsi.github.io/Plan-your-Day/
 
-Plan your Day is a place where people can add tasks which they want to do. It has an add, edit and delete options
+Plan your Day is a place where people can add tasks which they want to do. It has an add, edit and delete options.
 
 ## Final view of page looks like:
 ![view](https://user-images.githubusercontent.com/97884235/177609008-7901432d-ddee-47f1-8d4f-c96f9e28f570.png)
